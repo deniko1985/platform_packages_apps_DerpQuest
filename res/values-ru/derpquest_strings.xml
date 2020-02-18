@@ -282,10 +282,6 @@
 <!-- Lockscreen information -->
     <string name="lockscreen_info_category_title">Информационные элементы экрана блокировки</string>
 
-    <!-- Statusbar Clock Font Style & Size -->
-    <string name="status_bar_clock_font_style_title">Стиль шрифта часов</string>
-    <string name="status_bar_clock_font_size_title">Размер шрифта часов</string>
-
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Настройки шрифта часов</string>
     <string name="lock_clock_font_summary">Изменить шрифт по умолчанию для виджета часов блокировки экрана</string>
@@ -393,7 +389,6 @@
 
     <!-- Battery Styles -->
     <string name="battery_style_category_title">Уровень заряда</string>
-    <string name="battery_percent_title">Процент заряда</string>
 
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_style_title">Стиль батареи</string>
@@ -800,11 +795,6 @@
 
     <!--Gestures-->
     <string name="aosp_gesture_title">AOSP жесты</string>
-
-    <!-- Units -->
-    <string name="unit_seconds">секунды</string>
-    <string name="unit_milliseconds">милисекунды</string>
-    <string name="unit_pixels">dp</string>
 
     <!-- Statusbar ticker -->
     <string name="status_bar_show_ticker_title">Бегущая строка (beta)</string>
